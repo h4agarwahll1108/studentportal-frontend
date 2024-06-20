@@ -1,0 +1,25 @@
+/* Login.css */
+
+.login-container {
+    height: 100vh;
+    background-color: #ffe4e1;
+  }
+  
+  .login-card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card-img-top {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    padding: 20px 0;
+  }
+  
+  .btn-block {
+    margin-top: 20px;
+  }
+  
